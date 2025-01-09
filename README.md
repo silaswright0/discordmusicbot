@@ -14,3 +14,8 @@ Setup instructions:
   9. fulfill dependencies
   10. copy your token from before into the python file line 65, remember not to let anyone see this token
   11. and run the program
+
+Bot commands:
+  Command char: !
+  play: adds a song to queue
+  skip: skips a song
